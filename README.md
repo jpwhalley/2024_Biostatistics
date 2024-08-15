@@ -26,10 +26,9 @@ Please install the following suggested software:
 ------------------------------------------------
 
 1.  [Anaconda3 (for python3
-    notebooks)](https://www.anaconda.com/download/) with the following
-    packages:
+    notebooks)](https://www.anaconda.com/download/)
 
-2.  [R](https://www.r-project.org/) with the following packages:
+2.  [R](https://www.r-project.org/), ideally with [RStudio](https://posit.co/downloads/)
 
 <!-- -->
 

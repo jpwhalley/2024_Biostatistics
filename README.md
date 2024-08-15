@@ -33,6 +33,17 @@ Please install the following suggested software:
 
 <!-- -->
 
+
+Online Resources
+----------------
+
+-   [Python Tutorial](https://www.learnpython.org/)
+-   [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+-   [Nature Methods Points of Significance
+    Column](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+-   [Power analysis in R](https://www.statmethods.net/stats/power.html)
+
+
 Time and Locations
 ------------------
 
@@ -43,15 +54,6 @@ Time and Locations
 | 8/26     | 9.00           | 11.00        | Dealing with uncertainty from raw experimental data and linear regression              | LRC 509             |
 | 8/29     | 9.00           | 11.00        | Big data sets and dimension reduction methods, multiple testing and power calculations | LRC 509             |
 | 8/30     | 9.00           | 11.00        | Students’ presentations on their chosen dataset for summative assessment               | LRC 509             |
-
-Online Resources
-----------------
-
--   [Python Tutorial](https://www.learnpython.org/)
--   [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
--   [Nature Methods Points of Significance
-    Column](https://www.nature.com/collections/qghhqm/pointsofsignificance)
--   [Power analysis in R](https://www.statmethods.net/stats/power.html)
 
 
 Data

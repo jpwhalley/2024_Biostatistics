@@ -33,6 +33,27 @@ Please install the following suggested software:
 
 <!-- -->
 
+Time and Locations
+------------------
+
+| **Date** | **Start Time** | **End Time** | **Topic**                                                                              | **Location (room)** |
+| -------- | -------------- | ------------ | -------------------------------------------------------------------------------------- | ------------------- |
+| 8/19     | 9.00           | 11.00        | Tests of significance and correlations                                                 | LRC 509             |
+| 8/22     | 9.00           | 11.00        | Collecting and working with publicly available data                                    | LRC 509             |
+| 8/26     | 9.00           | 11.00        | Dealing with uncertainty from raw experimental data and linear regression              | LRC 509             |
+| 8/29     | 9.00           | 11.00        | Big data sets and dimension reduction methods, multiple testing and power calculations | LRC 509             |
+| 8/30     | 9.00           | 11.00        | Students’ presentations on their chosen dataset for summative assessment               | LRC 509             |
+
+Online Resources
+----------------
+
+-   [Python Tutorial](https://www.learnpython.org/)
+-   [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+-   [Nature Methods Points of Significance
+    Column](https://www.nature.com/collections/qghhqm/pointsofsignificance)
+-   [Power analysis in R](https://www.statmethods.net/stats/power.html)
+
+
 Data
 ----
 
@@ -54,23 +75,3 @@ Papers
     -   Paper: [Fairfax, BP et al. Innate Immune Activity Conditions the Effect of Regulatory Variants upon Monocyte Gene Expression. *Science* 343,1246949(2014).](https://www.science.org/doi/full/10.1126/science.1246949)
 
 
-Time and Locations
-------------------
-
-| **Date** | **Start Time** | **End Time** | **Topic**                                                                              | **Location (room)** |
-| -------- | -------------- | ------------ | -------------------------------------------------------------------------------------- | ------------------- |
-| 8/19     | 9.00           | 11.00        | Tests of significance and correlations                                                 | LRC 509             |
-| 8/22     | 9.00           | 11.00        | Collecting and working with publicly available data                                    | LRC 509             |
-| 8/26     | 9.00           | 11.00        | Dealing with uncertainty from raw experimental data and linear regression              | LRC 509             |
-| 8/29     | 9.00           | 11.00        | Big data sets and dimension reduction methods, multiple testing and power calculations | LRC 509             |
-| 8/30     | 9.00           | 11.00        | Students’ presentations on their chosen dataset for summative assessment               | LRC 509             |
-
-
-Online Resources
-----------------
-
--   [Python Tutorial](https://www.learnpython.org/)
--   [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
--   [Nature Methods Points of Significance
-    Column](https://www.nature.com/collections/qghhqm/pointsofsignificance)
--   [Power analysis in R](https://www.statmethods.net/stats/power.html)

@@ -12,6 +12,7 @@ Learning Objectives
 -   Those who have less experience in working with biological datasets,
     get experience working with genotype data, gene expression data and
     raw experimental data from qPCR experiments.
+-   Be able to get publically accessible data, and normalize if needed.
 -   Use of confidence intervals, what to use and how to assess them in
     reported research.
 -   How to use dimension reduction methods to get an initial first look

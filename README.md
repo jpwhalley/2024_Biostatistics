@@ -36,7 +36,7 @@ Please install the following suggested software:
 Data
 ----
 
--   Pleas contact me for the data used in e3\_dim\_reduction exercises.
+-   Pleas contact me for the data used in e4\_dim\_reduction exercises.
 
 Papers
 ------

@@ -7,6 +7,11 @@ e5_power_calculations/ex5_expression_data_pca.R
 e4_dim_reduction/microarray_all_expression.csv
 e4_dim_reduction/monocyte_all_expression.csv 
 
+# Python and R files
+.ipynb_checkpoints
+.Rproj.user
+.Rhistory
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

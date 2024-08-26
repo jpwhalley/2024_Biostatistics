@@ -1,4 +1,4 @@
-﻿Cell Line, LPS Time point,TNF Cq 1,TNF Cq 2,b-actin Cq 1,b-actin Cq 2
+﻿cell_line,time,TNF Cq 1,TNF Cq 2,b-actin Cq 1,b-actin Cq 2
 Intron enh A1,unstimulated,24.43,24.43,16.12,15.88
 Intron enh A1,2 hr,18.67,18.60,16.16,15.89
 Intron enh A1,6 hr,19.35,19.21,15.14,14.35

@@ -40,6 +40,12 @@ devtools::install_github("hadley/devtools")
 devtools::install_github("heiniglab/scPower") # Useful website https://scpower.helmholtz-muenchen.de/
 library(scPower)
 
+# May need 'limma' as well
+if (!require("BiocManager", quietly = TRUE))
+  install.packages("BiocManager")
+
+BiocManager::install("limma")
+
 # Looking at Aim 1
 a1_power<-power.general.withDoublets(nSamples=12,nCells=10000,readDepth=100000, ct.freq=0.2,type="de",
                                      #> Loading required package: pwr

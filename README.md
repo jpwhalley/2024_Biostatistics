@@ -59,7 +59,7 @@ Time and Locations
 Data
 ----
 
--   Pleas contact me for the data used in e4\_dim\_reduction exercises.
+-   Please contact me for the data used in e4\_dim\_reduction exercises.
 
 Papers
 ------

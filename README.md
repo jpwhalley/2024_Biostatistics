@@ -49,10 +49,10 @@ Time and Locations
 
 | **Date** | **Start Time** | **End Time** | **Topic**                                                                              | **Location (room)** |
 | -------- | -------------- | ------------ | -------------------------------------------------------------------------------------- | ------------------- |
-| 8/19     | 9.00           | 11.00        | Tests of significance and correlations                                                 | LRC 509             |
+| 8/19     | 9.00           | 11.00        | Tests of significance and correlations, correcting for  multiple testing               | LRC 509             |
 | 8/22     | 9.00           | 11.00        | Collecting and working with publicly available data                                    | LRC 509             |
-| 8/26     | 9.00           | 11.00        | Dealing with uncertainty from raw experimental data and linear regression              | LRC 509             |
-| 8/29     | 9.00           | 11.00        | Big data sets and dimension reduction methods, multiple testing and power calculations | LRC 509             |
+| 8/26     | 9.00           | 11.00        | Dealing with uncertainty from raw experimental data, linear regression and ANOVA       | LRC 509             |
+| 8/29     | 9.00           | 11.00        | Big data sets and dimension reduction methods and power calculations                   | LRC 509             |
 | 8/30     | 9.00           | 11.00        | Students’ presentations on their chosen dataset for summative assessment               | LRC 509             |
 
 
